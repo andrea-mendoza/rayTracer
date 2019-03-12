@@ -24,9 +24,9 @@ int main()
 
   Punto3D a = Punto3D(3,4,5);
   Punto3D b = Punto3D(3,6,2);
-  // cout<< "Operaciones con Puntos:" << endl;
+  cout<< "Operaciones con Puntos:" << endl;
 
-  // (a-b).mostrar();
+  (a-b).mostrar();
   return 0;
 }
 

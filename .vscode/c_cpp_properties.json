@@ -6,10 +6,13 @@
                 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/include",
                 "/Users/andreamendoza/Documents/Septimo Semestre/Graficas por computadoras/rayTracer",
                 "${workspaceFolder}/**",
-                "${workspaceFolder}"
+                "${workspaceFolder}",
+                "/Library/Developer/CommandLineTools/usr/include/c++/v1"
             ],
-            "defines": ["_DEBUG",
-                "UNICODE"],
+            "defines": [
+                "_DEBUG",
+                "UNICODE"
+            ],
             "macFrameworkPath": [
                 "/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks"
             ],
